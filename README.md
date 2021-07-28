@@ -1,4 +1,4 @@
-### Olá mundo, meu nome é Rodrigo 👋
+### Olá mundo, meu nome é Rodrigo 👋🏻
 ##
 🎓 cursando Ciência da Computação <br>
 📚 estudando a linguagem C <br>
