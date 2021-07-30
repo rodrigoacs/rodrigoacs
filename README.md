@@ -3,7 +3,6 @@
 🎓 cursando Ciência da Computação <br>
 📚 estudando a linguagem C <br>
 🌎 morando em Minas Gerais <br>
-💼 <a href="https://www.linkedin.com/in/rodrigoacsoares/">linkedin</a>
 ##
 <div align="center">
   <br>
