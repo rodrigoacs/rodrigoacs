@@ -7,6 +7,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 ##
+<style>
+  img {
+  width: 10vw;
+  }
+</style>
 <div align="center">
   <br>
   <a href="https://github.com/rodrigoacs">
