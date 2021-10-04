@@ -1,7 +1,7 @@
 ### Olá mundo, meu nome é Rodrigo 👋🏻
 ##
 🎓 cursando Ciência da Computação <br>
-📚 estudando a linguagem C <br>
+📚 estudando a linguagem C, HTML, CSS e JavaScript <br>
 🌎 morando em Minas Gerais <br>
 ##
 <div align="center">
