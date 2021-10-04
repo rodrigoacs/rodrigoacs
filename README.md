@@ -1,8 +1,9 @@
 ### Olá mundo, meu nome é Rodrigo 👋🏻
 ##
 🎓 cursando Ciência da Computação <br>
-📚 estudando a linguagem C, HTML, CSS e JavaScript <br>
 🌎 morando em Minas Gerais <br>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+
 ##
 <div align="center">
   <br>
