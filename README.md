@@ -2,7 +2,7 @@
 ##
 🎓 cursando Ciência da Computação <br>
 🌎 morando em Minas Gerais <br>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
