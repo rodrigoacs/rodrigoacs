@@ -1,4 +1,4 @@
-### Olá mundo, meu nome é Rodrigo 👋🏻
+### Olá, meu nome é Rodrigo 👋🏻
 ##
 🎓 Ciência da Computação <br>
 🌎 Minas Gerais, Brasil <br> <br>
