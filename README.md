@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Olá, meu nome é Rodrigo</h1>
-    <p>📌 Minas Gerais, Brasil</p>
+    <p>🌎 Minas Gerais, Brasil</p>
     <div>
         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
