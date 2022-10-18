@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Olá, meu nome é Rodrigo</h1>
+    <h1>Olá</h1>
     <p>🌎 Minas Gerais, Brasil</p>
     <div>
         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
