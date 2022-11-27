@@ -18,5 +18,5 @@
         <img height="180vw"
             src="https://github-readme-stats.vercel.app/api?username=rodrigoacs&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
     </a> 
-    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rodrigoacs&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2ei7yyug8ji0r867mfut2e8r2&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 </div>
