@@ -19,4 +19,4 @@
             src="https://github-readme-stats.vercel.app/api?username=rodrigoacs&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
     </a>
 </div>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2ei7yyug8ji0r867mfut2e8r2&cover_image=true&theme=compact&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2ei7yyug8ji0r867mfut2e8r2&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
