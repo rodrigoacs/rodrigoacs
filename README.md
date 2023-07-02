@@ -9,13 +9,3 @@
         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     </div>
 </div>
-<div align="center">
-    <a href="https://github.com/rodrigoacs">
-        <img height="180vw"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoacs&layout=compact&langs_count=7&theme=dark">
-    </a><br>
-    <a href="https://github.com/rodrigoacs">
-        <img height="180vw"
-            src="https://github-readme-stats.vercel.app/api?username=rodrigoacs&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-    </a>
-</div>
