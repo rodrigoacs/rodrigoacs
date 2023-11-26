@@ -3,7 +3,7 @@
 function helloWorld() {
 
   let name = "Rodrigo Soares"
-  let location = "minas Gerais, brazil"
+  let location = "minas gerais, brazil"
   let languages = ["javascript", "sql", "html", "css", "java", "python", "php"]
   let areas = ["data engineering", "web development", "fullstack"]
 
